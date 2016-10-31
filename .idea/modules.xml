@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/tabLinearLayout.iml" filepath="$PROJECT_DIR$/tabLinearLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpager_tabLinearLayout.iml" filepath="$PROJECT_DIR$/viewpager_tabLinearLayout.iml" />
     </modules>
   </component>
 </project>
